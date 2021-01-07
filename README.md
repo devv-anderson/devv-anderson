@@ -21,14 +21,14 @@ const aboutMe = {
      
      frontEnd: {
            css: ["Bootstrap"], 
-},
+
      backEnd: {
            js: ["Node js"],
-},
+
      dataBase: ["mySQL"],
           web: ["Angular"],
-},
+
      tools: ["Visual Studio Code", "Figma"],
-},
+
           currentOccupation: ["Open for job opportunities"],
-};
+
