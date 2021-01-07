@@ -20,15 +20,15 @@ const aboutMe = {
      technologies: {
      
      frontEnd: {
-           css: ["Bootstrap"]  
+           css: ["Bootstrap"], 
 },
      backEnd: {
-           js: ["Node js"]
+           js: ["Node js"],
 },
      dataBase: ["mySQL"],
-          web: ["Angular"]
+          web: ["Angular"],
 },
-     tools: ["Visual Studio Code", "Figma"]
+     tools: ["Visual Studio Code", "Figma"],
 },
           currentOccupation: ["Open for job opportunities"],
 };
