@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm {Anderson}!  👋
 
 <!--
 **devv-anderson/devv-anderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const aboutMe = {
+     code: ["Javascript", "Python", "HTML5", "CSS3"]
+     technologies: {
+     
+     frontEnd: {
+           css: ["Bootstrap"]  
+},
+     backEnd: {
+           js: ["Node js"]
+},
+     dataBase: ["mySQL"],
+          web: ["Angular"]
+},
+     tools: ["Visual Studio Code", "Figma"]
+},
+          currentOccupation: ["Open for job opportunities"],
+};
