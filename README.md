@@ -17,5 +17,5 @@
 
        currentOccupation: [`Open for job opportunities ${Trainee} || ${Developer_Jr}`]
         }
-    }
+      }
     }
