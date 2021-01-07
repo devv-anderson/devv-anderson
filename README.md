@@ -1,18 +1,18 @@
-###                                                      Hi there, I'm {Anderson}!  👋
+###                                                      Hi, I'm {Anderson}!
 
-const aboutMe = {
-     code: ["Javascript", "C", "HTML5", "CSS3", "Sass"],
-     technologies: {
-           frontEnd: {
-           css: ["Bootstrap"],  
-},
-     backEnd: {
-           js: ["Node js"],
-},
-          databases: ["mySQL"],
-          web: ["React", "Angular"],
-},
-          tools: ["Visual Studio Code", "Figma", "Adobe XD", "Scout App"],
-},
-          currentOccupation: ["last year student, open for job opportunities"],
-};
+    const aboutMe = {
+         code: ["Javascript", "HTML5", "CSS3", "Python"]
+         technologies: {
+         frontEnd: {
+                 css: ["Bootstrap"],  
+    },
+         backEnd: {
+                 js: ["Node js"],
+    },
+         databases: ["mySQL"],
+                 web: ["Angular"],
+    },
+         tools: ["Visual Studio Code", "Figma"],
+    },
+         currentOccupation: ["Open for job opportunities"]
+    }
