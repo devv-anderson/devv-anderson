@@ -1,4 +1,4 @@
-###                                                      Hi, I'm {Anderson}!
+### Hi, I'm {Anderson}!
 ```JavaScript
     const aboutMe = {
      code: ["Javascript", "HTML5", "CSS3", "Python"],
@@ -20,3 +20,4 @@
       }
     }
 ```
+[Linkedin](https://www.linkedin.com/in/andersonbarross/)
