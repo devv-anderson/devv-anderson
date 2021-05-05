@@ -1,5 +1,5 @@
 #                                              Hi, I'm {Anderson}!
-"
+{
 import FullstackStudent from 'diegobaena';
 
 class Bio extends FullstackStudent {
@@ -14,4 +14,4 @@ class Skills extends FullstackStudent {
   Tools = ['Visual Studio Code', 'Figma', 'Git', 'Github', 'Adobe XD];
 }
 
-"
+}
