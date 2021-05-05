@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm {Anderson}! </h1>
-```
+` ` `
 import FrontEndStudent from 'devv-anderson';
 
 class Bio extends FrontEndStudent {
@@ -13,4 +13,4 @@ class Skills extends FrontEndStudent {
   Frameworks = ['ReactJs', 'Bootstrap'];
   Tools = ['Visual Studio Code', 'Figma', 'Git', 'Github'];
 }
-```
+` ` `
