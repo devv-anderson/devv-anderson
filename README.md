@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm {Anderson}! </h1>
-```js
+```
 import FrontEndStudent from 'devv-anderson';
 
 class Bio extends FrontEndStudent {
