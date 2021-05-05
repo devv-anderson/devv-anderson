@@ -1,17 +1,17 @@
 #                                              Hi, I'm {Anderson}!
-{
-import FullstackStudent from 'diegobaena';
 
-class Bio extends FullstackStudent {
-  name    = 'Diego Baena Fronteira';
-  title   = ' FullStack Developer Student';
+import FrontEndStudent from 'devv-anderson';
+
+class Bio extends FrontEndStudent {
+  name    = 'Anderson Barros';
+  title   = ' Front-End Developer Student';
 }
 
-class Skills extends FullstackStudent {
-  languages = ['Javascript', 'Typescript', 'C', 'C#', 'HTML', 'Css', 'Sass'];
-  databases = ['SQL Server', 'Node.js];
-  Frameworks = ['ReactJs', 'Bootstrap', 'Express'];
-  Tools = ['Visual Studio Code', 'Figma', 'Git', 'Github', 'Adobe XD];
+class Skills extends FrontEndStudent {
+  languages = ['Javascript', 'Python'];
+  databases = ['SQL Server'];
+  Frameworks = ['ReactJs', 'Bootstrap'];
+  Tools = ['Visual Studio Code', 'Figma', 'Git', 'Github'];
 }
 
-}
+
